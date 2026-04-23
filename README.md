@@ -23,7 +23,7 @@ UpStreak is a premium, mobile-first habit tracking application designed with a "
 - **Typography**: Outfit & JetBrains Mono (Google Fonts)
 
 ## 🚀 Quick Start
-1. Clone the repo: `git clone https://github.com/SEJALVIDYARTHI-cyber/upstreak-habit-tracker.git`
+1. Clone the repo: `git clone https://github.com/SejalVidyarthi-cyber/upstreak-habit-tracker.git`
 2. Open `app.html` in any modern browser.
 3. Start tracking your habits!
 
