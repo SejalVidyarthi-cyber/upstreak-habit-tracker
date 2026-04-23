@@ -5,7 +5,7 @@ A premium, gamified habit-tracking PWA with Neo-Glass design and smart streak lo
 
 UpStreak is a premium, mobile-first habit tracking application designed with a "Neo-Glass" aesthetic. It combines robust streak logic with gamified progression to help users maintain life-changing routines.
 
-![Full App Preview](file:///c:/upstreak/app.html) <!-- Replace with a screenshot of your app! -->
+![Full App Preview](https://yourname.github.io/upstreak) <!-- Replace with a screenshot of your app! -->
 
 ![Design of App Preview](file:///c:/upstreak/design_preview.html) <!-- Replace with a screenshot of your app! -->
 
